@@ -1,2 +1,2 @@
 # test-git
-for git config
+for git config this is for development setup
